@@ -1,8 +1,9 @@
 # Web-ProxyServer
 Socket Programming: HTTP Web Proxy Server (without POST)
-Runing with python 3.8(32-bit) 
-[MSC V.1996 32 bit (Intel)] on win32
+Python version 3.8 (developed on 32-bit) 
+[MSC V.1996 32 bit (Intel)] on Win32
 
-=========================
+## Running the Code
 
-This Web Proxy Server was created in the 4/20/2020 by Weiyi Wang, Aneesh Saripalli, Anindita Palit as a project at The University of Texas at Dllas Professor Khiem Le's CS4390 class.
+## Credits
+Developed by Weiyi Wang, Aneesh Saripalli, and Anindita Palit at The University of Texas at Dallas for Professor Khiem Le's CS4390 class.
