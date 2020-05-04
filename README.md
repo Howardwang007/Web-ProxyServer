@@ -4,6 +4,13 @@ Python version 3.8 (developed on 32-bit)
 [MSC V.1996 32 bit (Intel)] on Win32
 
 ## Running the Code
+- `py -3 server.py`
+
+This boots the Python server which binds its socket to port 5005.
+
+## Testing the Code
+- Go to `localhost:5005/https://google.com/` in the console
+- This will load the page, from cache if possible, else from the server
 
 ## Credits
 Developed by Weiyi Wang, Aneesh Saripalli, and Anindita Palit at The University of Texas at Dallas for Professor Khiem Le's CS4390 class.
