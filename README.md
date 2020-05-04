@@ -3,6 +3,8 @@ Socket Programming: HTTP Web Proxy Server (without POST)
 Python version 3.8 (developed on 32-bit) 
 [MSC V.1996 32 bit (Intel)] on Win32
 
+&& PyCharm Community Edition 2020.1 x64
+
 ## Running the Code
 - `py -3 server.py`
 
